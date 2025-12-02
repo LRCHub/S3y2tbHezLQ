@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "純恋歌",
+  "base_artist": "Shounanno Kaze",
+  "createdAt": "2025-12-02T11:20:37.381483Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "純恋歌 - Live at 横浜スタジアム / 2013.08.10",
+      "artist": "Shounanno Kaze",
+      "has_synced": false,
+      "path": "select/01_純恋歌_-_Live_at_横浜スタジアム___2013.08.10_Shounanno_Kaze.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "純恋歌 - Junrenka",
+      "artist": "Shounanno Kaze",
+      "has_synced": true,
+      "path": "select/02_純恋歌_-_Junrenka_Shounanno_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "純恋歌",
+      "artist": "Shonan No Kaze",
+      "has_synced": true,
+      "path": "select/03_純恋歌_Shonan_No_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "純恋歌",
+      "artist": "Shonan No Kaze",
+      "has_synced": true,
+      "path": "select/04_純恋歌_Shonan_No_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "純恋歌",
+      "artist": "Shounanno Kaze",
+      "has_synced": false,
+      "path": "select/pl_01_純恋歌_Shounanno_Kaze.txt"
+    }
+  ]
+}
